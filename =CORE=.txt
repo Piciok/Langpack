@@ -39,7 +39,7 @@ Czas w mikrosekundach
 [Run]
 Uruchom
 [Are you sure you want to remove profile "%s"?]
-Czy napewano chcesz usunąć profil "%s"?
+Czy napewno chcesz usunąć profil "%s"?
 [Profiles are not allowed in the Miranda root folder.\n]
 Profile nie są dozwolone w głównym katalogu Mirandy.\n
 [Even though your profile folder is %s\n]
@@ -59,7 +59,7 @@ Zmodyfikowano
 [%s requested authorization\n%u on %s]
 %s otrzymał pytanie autoryzacji od\n%u na koncie %s
 [%s requested authorization\n%u (%s) on %s]
-%s otrzymał pytanie autoryzaji od\n%u (%s) na koncie %s
+%s otrzymał pytanie autoryzacji od\n%u (%s) na koncie %s
 [View User Details]
 Pokaż dane kontaktu
 [Denial Reason:]
@@ -107,7 +107,7 @@ ID konta
 [GGAccountChooser]
 Wybór konta GG
 [Validate SSL certificates]
-Zatwierdz certyfikat SSL
+Zatwierdź certyfikat SSL
 [overlays]
 Nakładka
 [overlays#1]
@@ -431,7 +431,7 @@ Nie przeszkadzać
 [Invisible]
 Niewidoczny
 [Offline]
-Rozłaczony
+Rozłączony
 [On the phone]
 Pod telefonem
 [Out to lunch]
@@ -1305,7 +1305,7 @@ Miranda nie może uruchomić profilu
 [Miranda was unable to open '%s'\nIt's inaccessible or used by other application or Miranda instance]
 Miranda nie może uruchomić profilu '%s'\nProgram jest już uruchomiony lub profil został uszkodzony!
 [Welcome to Miranda IM's account manager!\n \Here you can set up your IM accounts.\n\n \Select an account from the list on the left to see the available options. \Alternatively, just click on the Plus sign underneath the list to set up a new IM account.]
-Witaj w managerze kont Mirandy IM!\nMożesz tu skonfigurować swoje konta IM.\n\nZaznacz konto z listy po lewej by zobaczeć dostępne opcje. \Alternatywnie, kliknij na '+' pod listą aby utworzyć nowe konto.
+Witaj w managerze kont Mirandy IM!\nMożesz tu skonfigurować swoje konta IM.\n\nZaznacz konto z listy po lewej by zobaczyć dostępne opcje. \Alternatywnie, kliknij na '+' pod listą aby utworzyć nowe konto.
 [Enter account name (for example, My Google)]
 Utwórz nazwe konta (dla przykładu, Moje GG)
 [Specify the internal account name (optional)]
@@ -1379,7 +1379,7 @@ Konto "%s" zostanie usunięte
 [Protocol is not loaded.]
 Protokół nie jest załadowany.
 [Account is disabled. Please activate it to access options.]
-Konto jest wyłączone. Proszę je aktywować, by pojazać jego opcje.
+Konto jest wyłączone. Proszę je aktywować, by pokazać jego opcje.
 [Locked status]
 Zablokowany status
 [Move to Group]
